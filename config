@@ -1,0 +1,17 @@
+show=drun
+prompt=Apps
+layer=overlay
+term=kitty
+columns=1
+width=23.33%
+border: 1px solid #bd93f9;
+
+allow_markup=false
+allow_images=false
+image_size=32
+
+#outer-box {
+margin: 5px;
+border: 2px;
+background-color: #282a36;
+}
